@@ -5,7 +5,7 @@ load_dotenv()
 
 API_ID = os.getenv("API_ID", "10871792").strip()
 API_HASH = os.getenv("API_HASH", "6f3f84d0b392900e09b0aed186470890").strip()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "5969164341:AAFsbpmTyvIYgTwWXSHGhre4fOmqSNJ5J9g").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 MUST_JOIN = os.getenv("MUST_JOIN", "https://t.me/S_325")
 
