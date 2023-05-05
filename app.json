@@ -17,7 +17,7 @@
       "size": "Eco"
     }
   },
-  "addons": [
+  "addons": [https://github.com/SWADSOURCE/ssisons/blob/main/app.json
       {
          "options": {
             "version": "12"
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/Tepthonee/SessionBot",
+  "repository": "https://github.com/SWADSOURCE/ssisons",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
